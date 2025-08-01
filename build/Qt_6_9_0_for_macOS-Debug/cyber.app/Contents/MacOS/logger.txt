@@ -1,0 +1,1 @@
+[Mon May 12 23:30:17 2025] Encrypted file: /Users/mianhusnain/cyber/data.txt
